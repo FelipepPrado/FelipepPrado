@@ -1,9 +1,9 @@
 # Felipe
 
-**`Desenvolvedor`**
+**`Desenvolvedor iOS`**
 
-Me chamo Felipe Prado de Lima, tenho 19 anos e sou de Fortaleza-CE. Hoje faço Engenharia da Computação no Instituto Federal do Ceará (IFCE)
-. Gosto muito de estudar programação e conhecer novas tecnologias, atualmente focado na parte de Java e Spring Boot.
+Me chamo Felipe Prado de Lima, tenho 20 anos e sou de Fortaleza-CE. Hoje faço Engenharia da Computação no Instituto Federal do Ceará (IFCE)
+. Gosto muito de estudar programação e conhecer novas tecnologias, atualmente focado na parte de desenvolvimento iOS, e faço parte do programa Apple Developer Academy.
 
 <p align="left">
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
@@ -74,7 +74,14 @@ Me chamo Felipe Prado de Lima, tenho 19 anos e sou de Fortaleza-CE. Hoje faço E
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
+<img
+    alt="SwiftUI"
+    src="https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white"
+/>
+<img
+    alt="SwiftData"
+    src="https://img.shields.io/badge/SwiftData-5856D6?style=for-the-badge&logo=swift&logoColor=white"
+/>
 <br/>
 <br/>
 
